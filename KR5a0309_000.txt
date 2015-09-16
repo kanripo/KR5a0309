@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:46:12.720420
+# -*- mode: mandoku-view -*-
 #+TITLE: 曆世真仙體道通鑒續篇
-#+PROPERTY: DZID  DZ0297
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，5—414 五卷 洞真部記傳類
+#+DATE: 2015-08-28 23:46:14
+#+PROPERTY:  LASTPB <PB KR5a0309_SJB_005-050442c>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶
+
